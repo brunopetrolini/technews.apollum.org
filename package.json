@@ -1,0 +1,23 @@
+{
+  "name": "technews.apollum.org",
+  "version": "1.0.0",
+  "description": "Tecnologia para quem gosta de tecnologia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Petrolini <brunopetrolini@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopetrolini/technews.apollum.org"
+  },
+  "bugs": {
+    "url": "https://github.com/brunopetrolini/technews.apollum.org/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
